@@ -1,4 +1,5 @@
 ---
+description: "Use when creating or updating assignment markdown files. Ensures all assignments follow the consistent template structure with proper sections, formatting, and educational standards."
 applyTo: "assignments/**/*.md"
 ---
 
